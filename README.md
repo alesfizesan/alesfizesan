@@ -32,7 +32,7 @@ Status: DEVELOPER_FORM = 47% [=====>   ]
 
 ### `> find_me`
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=72BF23)](https://linkedin.com/in/alesfizesan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=72BF23)](https://www.linkedin.com/in/ale%C5%A1-fize%C5%A1an-39a699149/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=72BF23)](https://alesfizesan.dev)
 
 ---
