@@ -30,14 +30,6 @@ Status: DEVELOPER_FORM = 47% [=====>   ]
 
 ---
 
-### `> stats`
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alesfizesan&show_icons=true&theme=dark&bg_color=000000&title_color=72BF23&icon_color=72BF23&text_color=ffffff&border_color=72BF23)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alesfizesan&layout=compact&theme=dark&bg_color=000000&title_color=72BF23&text_color=ffffff&border_color=72BF23)
-
----
-
 ### `> find_me`
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=72BF23)](https://linkedin.com/in/alesfizesan)
